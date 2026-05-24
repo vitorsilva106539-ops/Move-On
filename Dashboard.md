@@ -17,3 +17,5 @@ Abaixo segue visão de "Vendas"
 <img width="891" height="665" alt="image" src="https://github.com/user-attachments/assets/8608fee3-b6e6-4493-a874-d64f92448f66" />
 
 
+Segue link do dashboard para visualização completa: https://datastudio.google.com/reporting/002a0a4a-053c-413e-9e58-d296e88a9e82
+
